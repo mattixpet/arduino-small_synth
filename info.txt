@@ -1,0 +1,25 @@
+3 state takki fyrir áttundaskiptingar (3 áttundir)
+
+Spennumunur á punkti a (eftir 1 150ohm viðnám) miðað við ground
+
+miðjan, ekkert tengt, 150 ohm + 150 ohm (V = 2.56 V) (523,8)
+niður, 150 + 150 || 220 (V = 1.9 V) (388,7)
+upp, 150 + 150 || 50 (V = 0.99 V) (202,6)
+
+NÝ GILDI: með einni blárri díóðu raðtengdri
+
+miðjan: 4.08 V  (834.8)
+niður:  3.77 V  (771.3)
+upp:    3.44 V  (703.8)
+
+NÝRRI GILDI: beint á vero borðinu
+
+miðjan: 4.10
+niður:  3.79
+upp:    3.49
+
+tempo changer (1k stilliviðnám. með 1 blárri díóðu)
+
+fer frá:  3.17 - 4.81 V (648.6 - 984.1)
+
+viljum tempo frá: 100 - 200 kannski?
